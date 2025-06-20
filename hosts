@@ -1,17 +1,40 @@
 # My Reddit Blocklist for DNSNet
-127.0.0.1 i.reddit.com
-127.0.0.1 i.redd.it
-127.0.0.1 v.redd.it
-127.0.0.1 external-preview.redd.it
-127.0.0.1 preview.redd.it
-127.0.0.1 reddituploads.com
-127.0.0.1 www.reddituploads.com
-127.0.0.1 a.thumbs.redditmedia.com
-127.0.0.1 b.thumbs.redditmedia.com
-127.0.0.1 c.thumbs.redditmedia.com
-127.0.0.1 d.thumbs.redditmedia.com
-127.0.0.1 e.thumbs.redditmedia.com
-127.0.0.1 about.reddit.com
-127.0.0.1 alb.reddit.com
-127.0.0.1 amp-reddit-com.cdn.ampproject.org
-127.0.0.1 www.redditmedia.com
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 old.reddit.com
+0.0.0.0 m.reddit.com
+0.0.0.0 np.reddit.com
+0.0.0.0 ssl.reddit.com
+0.0.0.0 blog.reddit.com
+0.0.0.0 pay.reddit.com
+0.0.0.0 fr.reddit.com
+0.0.0.0 es.reddit.com
+0.0.0.0 en-us.reddit.com
+0.0.0.0 i.reddit.com         # Images
+0.0.0.0 i.redd.it            # Image/media CDN
+0.0.0.0 v.redd.it            # Video CDN
+0.0.0.0 external-preview.redd.it # Previews
+0.0.0.0 preview.redd.it      # Previews
+0.0.0.0 reddituploads.com    # User uploads
+0.0.0.0 www.reddituploads.com
+0.0.0.0 a.thumbs.redditmedia.com # Thumbnails
+0.0.0.0 b.thumbs.redditmedia.com
+0.0.0.0 c.thumbs.redditmedia.com
+0.0.0.0 d.thumbs.redditmedia.com
+0.0.0.0 e.thumbs.redditmedia.com
+0.0.0.0 about.reddit.com
+0.0.0.0 alb.reddit.com
+0.0.0.0 www.redditmedia.com
+0.0.0.0 metrics.reddit.com   # Analytics/metrics
+0.0.0.0 ads.reddit.com       # Reddit's own ads
+0.0.0.0 out.reddit.com       # Outbound link tracking
+0.0.0.0 www.redditstatic.com # Static content
+0.0.0.0 config.reddit.com    # Configuration data
+0.0.0.0 gql.reddit.com       # GraphQL API (new Reddit)
+0.0.0.0 sh.reddit.com        # Short links
+0.0.0.0 community-content.reddit.com # More content
+0.0.0.0 gateway.reddit.com   # API Gateway
+0.0.0.0 desktop.reddit.com
+0.0.0.0 r.reddit.com         # Redirects
+0.0.0.0 events.reddit.com    # Event tracking
+0.0.0.0 r-ads.redditmedia.com # Another ad domain
