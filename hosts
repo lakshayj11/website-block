@@ -3106,6 +3106,12 @@
 0.0.0.0 extensions-discovery-images.twitch.tv
 0.0.0.0 panels.twitch.tv
 
+# YouTube Main Sites
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtu.be
+
 # Other
 0.0.0.0 pinpages.alwaysdata.net
 0.0.0.0 allotalk.com
